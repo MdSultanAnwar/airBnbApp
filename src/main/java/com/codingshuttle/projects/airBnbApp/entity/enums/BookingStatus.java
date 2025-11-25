@@ -1,7 +1,7 @@
 package com.codingshuttle.projects.airBnbApp.entity.enums;
 
-public enum PaymentStatus {
-    PENDING,
+public enum BookingStatus {
+    RESERVED,
     CONFIRMED,
     CANCELLED
 }
